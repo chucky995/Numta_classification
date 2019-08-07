@@ -6,6 +6,6 @@ https://www.kaggle.com/BengaliAI/numta
 
 Upon extraction there will be training and testing data separated in a-f parts. This program uses images from only the a part.
 
-There will also be csv files containing metadata. Select the labels and create a separate csv file for easy processing.
+There will also be csv files containing metadata. Open the corresponding csv files and select the labels column and create a separate csv file.
 
-Run the program and enjoy or make your won model and run it on this
+Run the program and enjoy.
